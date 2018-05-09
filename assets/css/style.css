@@ -272,13 +272,14 @@ input[type=submit] {
   }
   #logo {
     width: 100%;
+    margin-left: 0;
   }
   nav {
     float: left;
   }
   nav a {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 55px;
+    padding-right: 55px;
   }
   .auth-image {
     width: 100%;
@@ -289,6 +290,10 @@ input[type=submit] {
   }
   .work {
     width: 100%;
+  }
+  .work2 {
+    width: 100%;
+    margin-left: 0;
   }
 
   }
